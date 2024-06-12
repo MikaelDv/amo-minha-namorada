@@ -43,7 +43,7 @@ header ul {
   min-height: 100vh;
   width: 300px;
   background-color: #ffae62;
-  color: rgb(57, 57, 57);
+  color: #fff1e4;
 }
 
 dialog::backdrop {
@@ -63,7 +63,7 @@ dialog::backdrop {
 
 .menu-lateral i {
   font-size: 42px;
-  color: rgba(0, 0, 0, 0.775);
+  color: #fff1e4c3;
 }
 
 .menu-lateral ul {
@@ -83,7 +83,7 @@ audio {
 }
 
 audio::-webkit-media-controls {
-  border: none;
+  border: 2px solid #ffae62;
   opacity: 0.7;
   border-radius: 30px;
 }
