@@ -156,6 +156,7 @@ body {
   }
   .wrapper {
     width: 330px;
+    background: #ffae623d;
   }
 
   .input-box input {
