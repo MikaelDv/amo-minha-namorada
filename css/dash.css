@@ -83,7 +83,7 @@ audio {
 }
 
 audio::-webkit-media-controls {
-  border: 2px solid rgba(57, 57, 57);
+  border: none;
   opacity: 0.7;
   border-radius: 30px;
 }
