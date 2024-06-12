@@ -41,7 +41,7 @@ function verifyCredentials() {
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   if (verifyCredentials()) {
-    window.location.href = "../pages/dashboard.html";
+    window.location.href = "./pages/dashboard.html";
   } else {
     form.classList.add("shake");
     inputPassword.parentElement.classList.add("inptError");
